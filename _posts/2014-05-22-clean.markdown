@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Clean Theme"
+date:   2014-05-14 04:53:00
+homepage: https://github.com/wfalkwallace/clean-theme
+download: https://github.com/wfalkwallace/clean-theme/archive/master.zip
+demo: http://www.falk-wallace.com/blog/
+author: William Falk-Wallace
+thumbnail: clean.png
+license: MIT License
+license_link: https://github.com/wfalkwallace/clean-theme/blob/master/LICENSE
+---
+
+Clean is a simple, clear, and [words-oriented](http://justinjackson.ca/words.html) layout for Jekyll.
+Clean is an easy layout to modify and tailor. It can be seen in production at [www.falk-wallace.com](http://www.falk-wallace.com/blog/). Please feel free to compliment, contribute to, or request enhancements for *Clean Theme* on [Github](https://github.com/wfalkwallace/clean-theme).
