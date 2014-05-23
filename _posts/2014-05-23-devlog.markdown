@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "devlog"
+date:   2014-05-14 04:53:00
+homepage: https://github.com/wfalkwallace/devlog-theme
+download: https://github.com/wfalkwallace/devlog-theme/archive/master.zip
+demo: http://blog.falk-wallace.com/devlog-theme/
+author: William Falk-Wallace
+thumbnail: clean.png
+license: MIT License
+license_link: https://github.com/wfalkwallace/devlog-theme/blob/master/LICENSE
+---
+
+devlog is a hacker-oriented layout for Jekyll. Designed for clean and clear presentation of hardware and software projects logs and tutorials, devlog theme is an easy layout to modify and tailor. It can be seen in production at [blog.falk-wallace.com](http://blog.falk-wallace.com/). Please feel free to compliment, contribute to, or request enhancements for *Devlog Theme* on [Github](https://github.com/wfalkwallace/devlog-theme).
